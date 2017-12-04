@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+echo Hello World > 1.txt
+ type f1.txt
